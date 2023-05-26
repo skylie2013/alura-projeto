@@ -14,7 +14,8 @@ color:white;
 .cabecalho-imagem{
     width: 8%;
     }
-.cabecalho-lista-item{display:inline-block;
-
+.cabecalho-lista-item{
+display:inline-block;
+margin:0 16px ;
 }
 
