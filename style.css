@@ -64,4 +64,7 @@ font-size: 18px.
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20% ;
 }
+.rodape{
+    background-color: blue;
+}
 
